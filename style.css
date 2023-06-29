@@ -1,0 +1,30 @@
+
+/* edo oli i selida einai asimi sto background */
+*{
+    background-color: silver;
+}
+
+/* edo kathe strong element einai kitrino to posos bold einai 100 apo to 900 me vima 100 (100-200-300...900) */
+strong {
+   background-color: yellow;
+   font-weight: 100;
+   font-size: 0.4em;
+}
+
+/* edo to xroma to keimenou einai prasino kai to megethos tou 2em kai to margin 10px */
+.green-text {
+   color: green;
+   font-size: 2em;
+   margin: 10px;
+}
+
+/* edo to xroma tou background einai */
+.purple-background {
+    background-color: purple;
+}
+
+/* edo to xroma tou keimenou einai */
+/* anaferete se ID */
+#text-red {
+   color: red;
+}
